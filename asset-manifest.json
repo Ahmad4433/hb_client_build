@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6b59dfec.css",
+    "main.js": "/static/js/main.56072e65.js",
+    "static/media/shop.jpg": "/static/media/shop.c30b989d5e43cb7f3859.jpg",
+    "static/media/team.jpg": "/static/media/team.22ae074d5f932c5dc945.jpg",
+    "static/media/hero-bg.jpg": "/static/media/hero-bg.632177e579dc2a62f9a5.jpg",
+    "static/media/offer-bg.jpg": "/static/media/offer-bg.0e42afd0ed6f150647e6.jpg",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/about bg.jpg": "/static/media/about bg.30c20d0c7530acd62ee8.jpg",
+    "static/media/fontawesome-webfont.eot": "/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/agent.jpg": "/static/media/agent.a61948bdc9c2161c5d9e.jpg",
+    "static/media/logo_horizontal 150x250 red.png": "/static/media/logo_horizontal 150x250 red.c917567ab0d6cf983598.png",
+    "static/media/logo_horizontal white 250x150.png": "/static/media/logo_horizontal white 250x150.99575e49641c5e147696.png",
+    "static/media/partner.png": "/static/media/partner.e2c3fc0df2c7f1f68cdc.png",
+    "static/media/logo_horizontal svg.svg": "/static/media/logo_horizontal svg.6a362d74674368ff682dc6a5903fdb72.svg",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/index.html",
+    "main.6b59dfec.css.map": "/static/css/main.6b59dfec.css.map",
+    "main.56072e65.js.map": "/static/js/main.56072e65.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6b59dfec.css",
+    "static/js/main.56072e65.js"
+  ]
+}
